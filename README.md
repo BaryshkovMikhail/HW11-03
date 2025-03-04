@@ -38,6 +38,16 @@
 
 ---
 
+
+### Решение 3 
+
+<img src = "img/img5.png" width = 100%>
+<img src = "img/img6.png" width = 100%>
+
+---
+
+
+
 ### Задание 4. Filebeat. 
 
 Установите и запустите Filebeat. Переключите поставку логов Nginx с Logstash на Filebeat. 
