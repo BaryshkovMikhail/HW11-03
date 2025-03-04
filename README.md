@@ -23,6 +23,13 @@
 
 ---
 
+### Решение 2 
+
+<img src = "img/img3.png" width = 100%>
+<img src = "img/img4.png" width = 100%>
+
+---
+
 ### Задание 3. Logstash
 
 Установите и запустите Logstash и Nginx. С помощью Logstash отправьте access-лог Nginx в Elasticsearch. 
